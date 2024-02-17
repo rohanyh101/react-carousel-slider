@@ -1,0 +1,16 @@
+{
+    "slides": [
+        {
+            "src": "https://picsum.photos/seed/img17/600/400",
+            "alt": "img1"
+        },
+        {
+            "src": "https://picsum.photos/seed/img2/600/400",
+            "alt": "img2"
+        },
+        {
+            "src": "https://picsum.photos/seed/img6/600/400",
+            "alt": "img3"
+        }
+    ]
+}
